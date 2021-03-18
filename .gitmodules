@@ -1,0 +1,6 @@
+[submodule "game"]
+	path = game
+	url = git@github.com:lindeneg/nardis-game
+[submodule "ui"]
+	path = ui
+	url = git@github.com:lindeneg/nardis-ui
