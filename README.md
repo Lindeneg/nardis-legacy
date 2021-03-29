@@ -26,8 +26,8 @@ Initialize submodule
 
 Install packages
 
-`~/nardis/ui$ yarn install`
+`~/nardis/{ui|game}$ yarn install`
 
 Start server.
 
-`~/nardis/ui$ yarn start`
+`~/nardis/{ui|game}$ yarn start`
