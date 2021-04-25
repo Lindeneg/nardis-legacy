@@ -14,7 +14,7 @@ The idea (not mine) is great but the execution (totally mine) sucks.
 
 ---
 
-Try it [here](https://lindeneg.github.io/nardis-ui/) or build from source.
+Try it [here](https://nardis.lindeneg.org) or build from source.
 
 Clone source
 
